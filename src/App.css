@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .App-logo {
@@ -9,18 +10,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: yellow;
 }
 
 .App-link {
-  color: #61dafb;
+  color: yellow;
 }
 
 @keyframes App-logo-spin {
